@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1683552088 source:c:\users\Stefan\onedrive\desktop\labf\main.cpp
+	<iostream>
+	"tesEntitate.h"
+	"testeRepo.h"
+	"testeService.h"
+	"UI.h"
+
+1683020033 source:c:\users\Stefan\onedrive\desktop\labf\entitate.cpp
+	"Entitate.h"
+	<cstring>
+
+1683020033 c:\users\Stefan\onedrive\desktop\labf\entitate.h
+
+1683007965 c:\users\Stefan\onedrive\desktop\labf\tesentitate.h
+
+1683008115 source:c:\users\Stefan\onedrive\desktop\labf\tesentitate.cpp
+	<iostream>
+	<cstring>
+	<cassert>
+	"Entitate.h"
+
+1683009714 source:c:\users\Stefan\onedrive\desktop\labf\entitaterepository.cpp
+
+1683614019 source:c:\users\Stefan\onedrive\desktop\labf\entitaterepo.cpp
+	<vector>
+	"EntitateRepo.h"
+	<cstring>
+
+1683613336 c:\users\Stefan\onedrive\desktop\labf\entitaterepo.h
+	<vector>
+	"Entitate.h"
+
+1683020406 c:\users\Stefan\onedrive\desktop\labf\testerepo.h
+
+1683020425 source:c:\users\Stefan\onedrive\desktop\labf\testerepo.cpp
+	"EntitateRepo.h"
+	<iostream>
+	<cassert>
+	<cstring>
+
+1683613439 source:c:\users\Stefan\onedrive\desktop\labf\entitateservice.cpp
+	<iostream>
+	<vector>
+	"EntitateService.h"
+
+1683613439 c:\users\Stefan\onedrive\desktop\labf\entitateservice.h
+	"EntitateRepo.h"
+	<vector>
+	<iostream>
+
+1683551379 c:\users\Stefan\onedrive\desktop\labf\ui.h
+	"EntitateService.h"
+
+1683613534 source:c:\users\Stefan\onedrive\desktop\labf\ui.cpp
+	"UI.h"
+	<vector>
+	<iostream>
+
+1683552088 c:\users\Stefan\onedrive\desktop\labf\testeservice.h
+
+1683552088 source:c:\users\Stefan\onedrive\desktop\labf\testeservice.cpp
+	"EntitateService.h"
+	<vector>
+	<iostream>
+	<cassert>
+	<cstring>
+
+1683020033 source:c:\users\Stefan\onedrive\desktop\proiecte\labf\entitate.cpp
+	"Entitate.h"
+	<cstring>
+
+1683020033 c:\users\Stefan\onedrive\desktop\proiecte\labf\entitate.h
+
+1684169182 source:c:\users\Stefan\onedrive\desktop\proiecte\labf\entitaterepo.cpp
+	<vector>
+	"EntitateRepo.h"
+	<cstring>
+
+1684216139 c:\users\Stefan\onedrive\desktop\proiecte\labf\entitaterepo.h
+	<vector>
+	"Entitate.h"
+
+1683613439 source:c:\users\Stefan\onedrive\desktop\proiecte\labf\entitateservice.cpp
+	<iostream>
+	<vector>
+	"EntitateService.h"
+
+1684219366 c:\users\Stefan\onedrive\desktop\proiecte\labf\entitateservice.h
+	"EntitateRepo.h"
+	<vector>
+	<iostream>
+
+1684217363 source:c:\users\Stefan\onedrive\desktop\proiecte\labf\main.cpp
+	<iostream>
+	"tesEntitate.h"
+	"testeRepo.h"
+	"testeService.h"
+	"UI.h"
+
+1683007965 c:\users\Stefan\onedrive\desktop\proiecte\labf\testentitate.h
+
+1683020406 c:\users\Stefan\onedrive\desktop\proiecte\labf\testerepo.h
+
+1683552088 c:\users\Stefan\onedrive\desktop\proiecte\labf\testeservice.h
+
+1684159157 c:\users\Stefan\onedrive\desktop\proiecte\labf\ui.h
+	"EntitateService.h"
+	"Colectie.h"
+
+1683008115 source:c:\users\Stefan\onedrive\desktop\proiecte\labf\testentitate.cpp
+	<iostream>
+	<cstring>
+	<cassert>
+	"Entitate.h"
+
+1683020425 source:c:\users\Stefan\onedrive\desktop\proiecte\labf\testerepo.cpp
+	"EntitateRepo.h"
+	<iostream>
+	<cassert>
+	<cstring>
+
+1683552088 source:c:\users\Stefan\onedrive\desktop\proiecte\labf\testeservice.cpp
+	"EntitateService.h"
+	<vector>
+	<iostream>
+	<cassert>
+	<cstring>
+
+1684168134 source:c:\users\Stefan\onedrive\desktop\proiecte\labf\ui.cpp
+	"UI.h"
+	<vector>
+	<iostream>
+	<cstring>
+
+1684160263 c:\users\Stefan\onedrive\desktop\proiecte\labf\colectie.h
+
+1684160275 source:c:\users\Stefan\onedrive\desktop\proiecte\labf\colectie.cpp
+	<iostream>
+	"Colectie.h"
+
+1684219083 source:c:\users\Stefan\onedrive\desktop\proiecte\labf\filerepo.cpp
+	"FileRepo.h"
+	<utility>
+	<iostream>
+
+1684218639 c:\users\Stefan\onedrive\desktop\proiecte\labf\filerepo.h
+	"EntitateRepo.h"
+	<fstream>
+
+1684216861 c:\users\Stefan\onedrive\desktop\proiecte\labf\filerepo.cpp
+	"EntitateRepo.h"
+	<fstream>
+	<vector>
+

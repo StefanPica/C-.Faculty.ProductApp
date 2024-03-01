@@ -1,0 +1,3 @@
+C:/Users/Stefan/CLionProjects/C++.FinalLab/cmake-build-debug/CMakeFiles/C___FinalLab.dir
+C:/Users/Stefan/CLionProjects/C++.FinalLab/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Stefan/CLionProjects/C++.FinalLab/cmake-build-debug/CMakeFiles/rebuild_cache.dir
